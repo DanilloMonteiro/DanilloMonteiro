@@ -1,7 +1,7 @@
 ### Olá! Eu sou o DanilloMonteiro
 
 -🔭 Procurando uma vaga. <br/>
--🌱 React.js, Node.js, JavaScript, HTML, CSS.
+-🌱 React.js, Node.js, JavaScript, HTML, CSS, Postgres, Express.
 
 <div align="center">
   <a href="https://github.com/DanilloMonteiro">
