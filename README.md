@@ -5,8 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/DanilloMonteiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanilloMonteiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true&PAT_1=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"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanilloMonteiro&layout=compact&langs_count=7&theme=dark&PAT_1=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"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </div>
 
 <div style="display: inline_block"><br>
